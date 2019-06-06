@@ -1,0 +1,21 @@
+{
+  "name": "aws-lambda-ses",
+  "version": "1.0.0",
+  "description": "A simple aws lambda node function for transferring form data to email via AWS SES ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "nodejs",
+    "aws",
+    "ses"
+  ],
+  "author": "Arun Bojja",
+  "license": "ISC",
+  "dependencies": {
+    "google-recaptcha": "^1.1.0"
+  }
+}
